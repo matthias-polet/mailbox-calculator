@@ -10,7 +10,7 @@ In the future, the application might also send some messages after the user did 
 - [X] Real Time Futures Curve
     - [X] Contango/Backwardation curve
 - [X] USD Yield Curve
-    - [ ] Using Future spreads
+    - [X] Using Future spreads
 - [ ] Input Simulation
     - [ ] Insert HODL
     - [ ] Write Call Option
