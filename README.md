@@ -19,8 +19,8 @@ In the future, the application might also send some messages after the user did 
     - [ ] Writing Naked Call
     - [ ] Covered Call
 
-Demo:
-media.gif
+## Demo
+<img src="./media/demo_dbv.gif" width="550">
 
 ## Phase 2: Do it again
 - [ ] Position reader
