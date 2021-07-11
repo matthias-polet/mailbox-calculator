@@ -7,5 +7,6 @@
 
 
 ## Know your opponent
-* Market Risk
-* 
+* Futures Curve
+* Yield Curve
+* Historical Spread
