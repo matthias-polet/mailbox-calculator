@@ -1,4 +1,4 @@
-# Mailbox Calculator for plebs
+# Mailbox Calculator
 The application receives some messages and then calculates some stuff.
 In the future, the application might also send some messages after the user did some calculations.
 
